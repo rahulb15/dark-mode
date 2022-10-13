@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+/* h1 background color radient */
+
+/* h1 {
+    background: linear-gradient(90deg, #ff0000, #ff5100, #0066ff, #0084ff, #7700ff, #ff00ff, #ff0000);
+    background-size: 200%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: animate 5s linear infinite;
+    font-size: 4rem;
+    font-weight: 800;
+    text-align: center;
+}
+
+@keyframes animate {
+    0% {
+        background-position: 0%;
+    }
+    100% {
+        background-position: 200%;
+    }
+} */
+
+svg {
+    cursor: pointer;
+}
+
+
